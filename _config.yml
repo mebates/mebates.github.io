@@ -1,0 +1,16 @@
+# User config
+author: "Mollie Bates"
+tagline: "Mollie Bates's Design Portfolio"
+description: "I use my strengths as a designer and doer to contribute to improving the American experience for everyone. I have over a decade of in-house design experience working for for media, government, and startups in Washington, DC."
+keywords: "Design, Product Design, Graphic Design, Design Leadership, Mollie Bates"
+email: "mollie.bates@gmail.com"
+linkedin: "https://www.linkedin.com/in/mebatesdc/"
+twitter: "https://twitter.com/mebates"
+github: "https://github.com/mebates"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
