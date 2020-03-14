@@ -9,7 +9,7 @@ twitter: "https://twitter.com/mebates"
 github: "https://github.com/mebates"
 
 # Site config
-baseurl: ""
+url: "https://molliebates.com"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
