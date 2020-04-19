@@ -10,7 +10,7 @@ project:
   title: "Data visualizations"
   type: "National Geographic Magazine"
   url: 
-  logo: "/assets/images/projects/ngdataviz/medicalmigrationpreview.jpg"
+  logo: "/assets/images/projects/ngdataviz/nglogo.png"
   tech: "Designer"
 
 agency:
